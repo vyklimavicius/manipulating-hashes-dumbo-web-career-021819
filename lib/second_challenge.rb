@@ -1,4 +1,6 @@
 def second_challenge
+  new_array = Array.new
+	string = ''
   groceries = {
    dairy: ["milk", "yogurt", "cheese"],
    vegetable: ["carrots", "broccoli", "cucumbers"],
