@@ -10,6 +10,6 @@ def second_challenge
 
   #code your solution here!
   new_array = groceries.values
-  string = new_array.join(" ,")
+  string = new_array.join(" ")
   new_array = string.split 
 end
